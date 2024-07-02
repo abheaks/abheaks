@@ -6,11 +6,7 @@
 
 https://www.linkedin.com/in/abheaks/
 
-Developer with 2 years of experience in the entire software development life cycle. Proven skills
-in interacting with businesses to meet the requirements and develop features. I am a
-collaborative team player, an effective communicator, self-motivated and driven with strong
-time management and prioritization abilities. Passionate about blockchain and solving real life
-problems with it.
+I'm a Full Stack Developer with four years of experience, with knowledge in blockchain technologies like Ethereum, Polygon, and Corda. I excel in smart contract development and transaction optimization. On the front end, I craft interactive interfaces using React, Redux, Tailwind CSS, and Material UI. I also have strong skills in backend development with Java, Node.js, and experience with Firebase and React Hooks. I thrive in dynamic startup environments, leveraging my expertise to solve real-world problems with innovative solutions.
 
 <!---
 abheaks/abheaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
