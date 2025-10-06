@@ -41,10 +41,6 @@ I'm a full-stack developer specialising in building highly scalable systems and 
 - 🔗 [Portfolio](https://abheaks.me/)
 - 🐦 [Twitter](https://twitter.com/abheaks)
 
-## GitHub Stats
-
-![Abhijith's GitHub stats](https://github-readme-stats.vercel.app/api?username=abheaks&show_icons=true&hide_title=true)
-
 ## Get in Touch
 
 Are you looking to scale your business, integrate blockchain, or deploy advanced AI solutions?  
