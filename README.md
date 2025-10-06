@@ -1,12 +1,55 @@
-- 👋 Hi, I’m @Abhijith
-- 👀 I’m interested in BlockChain and DLT
-- 🌱 I’m currently learning BlockChain
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 https://www.linkedin.com/in/abheaks/
+# Hi, I'm Abhijith S 👋
 
-I'm a Full Stack Developer with four years of experience, with knowledge in blockchain technologies like Ethereum, Polygon, and Corda. I excel in smart contract development and transaction optimization. On the front end, I craft interactive interfaces using React, Redux, Tailwind CSS, and Material UI. I also have strong skills in backend development with Java, Node.js, and experience with Firebase and React Hooks. I thrive in dynamic startup environments, leveraging my expertise to solve real-world problems with innovative solutions.
+[![Website](https://img.shields.io/badge/Portfolio-abheaks.me-blue)](https://abheaks.me/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/abheaks?style=social)](https://twitter.com/abheaks)
+
+## About Me
+
+I'm a full-stack developer specialising in building highly scalable systems and integrating cutting-edge blockchain and AI technologies to solve real-world problems.
+
+### 🚀 Scalable System Architecture
+
+- Expert in designing and deploying large-scale Java-based backend systems  
+- Skilled in advanced scaling strategies, leveraging Docker, Kubernetes, caching, and load balancing for optimal reliability and performance  
+- Proven track record in system integration for fast-growing startups and enterprise-grade solutions
+
+### 🔗 Blockchain Integration
+
+- Deep experience in smart contract development and transaction optimisation on Ethereum, Polygon, and Corda
+- Blockchain-enabled systems for secure, transparent, and seamless business processes
+
+### 🤖 AI Chatbots & Multi-Agent Frameworks
+
+- Architect of AI-powered chatbot solutions using LangChain, Retrieval Augmented Generation (RAG), and multi-agent orchestration
+- Specialise in complex agent-based architectures to deliver contextual, intelligent, and autonomous user experiences
+- Drive real-world impact by combining scalable backend, blockchain, and AI to automate, optimise, and transform business workflows
+
+### 🛠️ Tech Stack
+
+- **Backend:** Java, Node.js, Docker, Kubernetes, Cache, Load Balancing
+- **Blockchain:** Ethereum, Polygon, Corda, Smart Contracts
+- **AI/ML:** LangChain, RAG, Multi-Agent Systems
+- **Frontend:** React, Redux, Tailwind CSS, Material UI
+- **Cloud/DB:** Firebase
+
+---
+
+- 🌍 Based in Bengaluru
+- 💼 Open to work opportunities
+- 🔗 [Portfolio](https://abheaks.me/)
+- 🐦 [Twitter](https://twitter.com/abheaks)
+
+## GitHub Stats
+
+![Abhijith's GitHub stats](https://github-readme-stats.vercel.app/api?username=abheaks&show_icons=true&hide_title=true)
+
+## Get in Touch
+
+Are you looking to scale your business, integrate blockchain, or deploy advanced AI solutions?  
+Let’s connect and solve real-world problems together!
+
 
 <!---
 abheaks/abheaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
