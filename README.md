@@ -53,8 +53,6 @@ Professional full‑stack engineer focused on building highly scalable systems a
 - Portfolio & other work
   - Portfolio: https://abheaks.github.io/abheaks-folio/
 
-If you'd like a deeper breakdown of any project (architecture diagrams, tech decisions, sample code), I can expand the project section with specific highlights and architecture summaries.
-
 ## Experience & Impact
 
 - Built and scaled Java-based backend services for production usage — optimized for reliability and throughput.
