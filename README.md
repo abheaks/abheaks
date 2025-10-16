@@ -38,7 +38,7 @@ I'm a full-stack developer specialising in building highly scalable systems and 
 
 - 🌍 Based in Bengaluru
 - 💼 Open to work opportunities
-- 🔗 [Portfolio](https://abheaks.me/)
+- 🔗 [Portfolio](https://abheaks.github.io/abheaks-folio/)
 - 🐦 [Twitter](https://twitter.com/abheaks)
 
 ## Get in Touch
