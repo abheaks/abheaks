@@ -8,23 +8,32 @@ Professional full‑stack engineer focused on building highly scalable systems a
 
 ## What I do
 
-- Design and implement resilient, high-performance backend systems using Java and Node.js.
+- Design and implement resilient, high-performance backend systems using Java, Node.js, and TypeScript.
+- Build scalable video streaming platforms and real-time media delivery systems optimized for performance and user experience.
+- Develop full-stack applications with modern frontend frameworks (React, TypeScript) and robust backend services (Node.js, Express).
 - Build and orchestrate containerized services with Docker and Kubernetes for production-scale deployments.
 - Architect blockchain-enabled systems and smart contracts on Ethereum, Polygon, and Corda.
 - Develop AI-powered conversational systems and multi-agent frameworks using LangChain and RAG patterns.
-- Integrate modern frontend frameworks (React, Tailwind, Material UI) to deliver polished user experiences.
+- Create responsive, polished user interfaces with React, Tailwind CSS, and Material UI.
 
 ## Core Skills
 
-- Backend: Java, Node.js, RESTful APIs, Microservices, Caching, Load Balancing
+- Backend: Java, Node.js, TypeScript, Express, RESTful APIs, Microservices, Caching, Load Balancing
+- Media & Streaming: Video streaming platforms, media processing, real-time content delivery
 - DevOps / Infra: Docker, Kubernetes, CI/CD, Observability, Cloud deployments
 - Blockchain: Smart Contracts, Ethereum, Polygon, Corda, Transaction Optimization
 - AI / ML: LangChain, RAG (Retrieval-Augmented Generation), Multi-Agent Systems, Conversational AI
-- Frontend: React, Redux, Tailwind CSS, Material UI
+- Frontend: React, TypeScript, Redux, Tailwind CSS, Material UI
 - Cloud & DB: Firebase, relational and NoSQL databases
-- Tools & Languages: Python, JavaScript, Shell, Dockerfile, Git
+- Tools & Languages: Python, JavaScript, TypeScript, Shell, Dockerfile, Git
 
 ## Select Projects
+
+- VeTube — Video streaming platform
+  - Frontend: https://github.com/abheaks/vetube-frontend
+  - Backend: https://github.com/abheaks/vetube-backend
+  - Tech & highlights: Full-stack video streaming application built with React and TypeScript on the frontend, Node.js and Express on the backend. Implements video upload, processing, streaming, and playback with a modern, responsive UI. Demonstrates scalable architecture for handling media content delivery.
+  - Why it matters: Showcases expertise in building real-time video streaming systems with modern frontend frameworks and backend services optimized for media handling.
 
 - Intelchatbot — Intelligent conversational agent
   - Repo: https://github.com/abheaks/Intelchatbot
