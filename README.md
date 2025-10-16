@@ -1,7 +1,7 @@
 https://www.linkedin.com/in/abheaks/
 # Hi, I'm Abhijith S 👋
 
-[![Website](https://img.shields.io/badge/Portfolio-abheaks.me-blue)](https://abheaks.me/)
+[![Website](https://img.shields.io/badge/Portfolio-abheaks.me-blue)](https://abheaks.github.io/abheaks-folio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abheaks?style=social)](https://twitter.com/abheaks)
 
 Professional full‑stack engineer focused on building highly scalable systems and integrating blockchain and advanced AI solutions to solve real-world problems. I blend strong engineering fundamentals with practical product-minded delivery — from low-latency Java services and container orchestration to smart contracts and Retrieval-Augmented Generation (RAG) agents.
